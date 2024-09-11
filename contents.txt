@@ -1,0 +1,43 @@
+Introduction .............................................................. p. 1-2
+
+    1.1 Background and Relevance of the Topic
+    1.2 The AI Revolution vs. the Industrial Revolution
+    1.3 Objectives, Structure and Methodology of the Research
+
+Historical Background of AI Development ..................... p. 3-4
+
+    2.1 Origins of Artificial Neural Networks
+    2.2 Key Milestones in AI Evolution
+    2.3 The Rise of Deep Learning
+
+Understanding Artificial Neural Networks .................... p. 5-6
+
+    3.1 What is a Neural Network?
+    3.2 Architecture and Functioning of Neural Networks
+    3.3 Applications of Neural Networks in Modern AI
+
+Current Trends in the AI Labor Market ......................... p. 7-10
+
+    4.1 Job Automation and AI Integration
+    4.2 AI's Impact on Different Sectors: Case Studies
+    4.3 New Opportunities and Skill Demands
+
+Future for AI and Employment .................. p. 11-13
+
+    5.1 IMF 2024 Report Analysis
+    5.2 WEF 2024 Global Risks Report Analysis
+    5.3 The Future of Work: Human-AI Collaboration
+
+Challenges and Risks .................................................. p. 14
+
+    6.1 Ethical Concerns and Societal Impact
+    6.2 Risks of Job Displacement
+    6.3 Regulatory and Policy Responses
+
+Conclusion ................................................................. p. 15
+
+    7.1 Summary of Findings
+    7.2 Implications for the Future Labor Market
+    7.3 Final Thoughts on AI's Role in the Future of Work
+
+Bibliography .............................................................. p. 16
